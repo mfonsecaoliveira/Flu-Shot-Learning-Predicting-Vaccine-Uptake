@@ -1,4 +1,4 @@
-# 💉 Flu Shot Learning: Predicting H1N1 and Seasonal Flu Vaccines
+# 💉 Flu Shot Learning: Predicting Vaccine Uptake
 
 > Academic project — **Applied Machine Learning**
 > City College Dublin | Data Analytics Program | 2026
